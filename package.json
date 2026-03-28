@@ -1,0 +1,9 @@
+{
+  "name": "dailypoem-linebot",
+  "version": "1.0.0",
+  "description": "日日一詩 LINE Bot — Vercel Serverless",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
